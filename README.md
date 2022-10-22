@@ -5,4 +5,5 @@
 
 The game gets harder the longer you play!!
 
+Game Link: https://ankitanand1974.github.io/Simon-Game/
 Hope you enjoy it. 🙂
